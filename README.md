@@ -38,7 +38,7 @@
   <h4>📍Awards</h4>
    - 2024 세종시 농협 장학생 
   <br>
-   - 2025 Awards for Excellent ABC Program Essays
+   - 2025 Awards for 우수상 ABC Project Essays
   <br>
   <div>
   <h4>📍experiences</h4>
@@ -101,4 +101,4 @@
 </div>
 
 <h4>📍languages </h4>
-  - OPIc : IH(를 따기 위한 노력 중에 있음.)
+  - OPIc : IH(26.05.04)
